@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="css/Article1.css">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Ireland look to rebuild after disappointing world cup</title>
+
+</head>
+<body>
+	<form id="form1" name="form1" method="post" action="file:///U:/Responsive%20Web%20Design/Project/AllNews.html">
+	<input type="submit" name="submit" id="submit" value="BACK TO HOME">
+	</fieldset>
+
+</form>
+	<h1>O'Sullivan scrapes past White in Champion of Champions</h1>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+		Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+		Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+		Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+		Corrupti, ipsum quae veritatis in nihil laudantium labore beatae nulla laborum rem. 
+		Error, molestiae eaque quod placeat at. Labore architecto minus accusantium.</p>
+	
+	<h2>Match Pictures</h2>
+	
+	<figure>
+		<img src="https://i1.wp.com/metro.co.uk/wp-content/uploads/2019/09/GettyImages-1135020237.jpg?quality=90&strip=all&zoom=1&resize=644%2C429&ssl=1" alt="Placeholder kitteh">
+		<figcaption>O'Sullivan managed to survive a huge scare</figcaption>
+	</figure>	
+
+	<target="_blank"><img src="images/facebook.png" alt="Daily News Facebook page"></a>
+
+<target="_blank">Follow us on Facebook</a></p>
+	<p><target="_blank">
+
+<img src="images/twitter.png" alt="twitter" title="Visit us on Twitter" target="_blank">Visit us on twitter</a></p>
+
+</body>
+</html>
